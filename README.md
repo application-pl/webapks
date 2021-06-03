@@ -38,18 +38,30 @@ The idea is that a Progressive Web App can be packaged to an APK (Android applic
 
 But what exactly are the benefits of an installed WebAPK compared to the already powerful Progressive Web Apps? A packaged and installed Progressive Web App (WebAPK) gains the following features:
 
-    The application can be found in the Android app drawer.
-    It is listed in the ‘All apps’ section, which can be found in the settings.
-    It does have its own ‘App info’, just as native apps do. In screenshot (3) in the section above you can see that an installed WebAPK has the same properties e.g., Storage, Data usage, and Battery consumption like native applications.
-    Developers are able to update the app icon and name after the app was installed, which wasn’t possible before.
-    The app receives its own target URL space for its domain, so when a user clicks on a link within the scope of the Progressive Web App, it will open the installed app instead of the Chrome browser.
++ The application can be found in the Android app drawer.
++ It is listed in the 'All apps' section, which can be found in the settings.
++ It does have its own 'App info' just as native apps do. WebAPK has the same properties e.g. 
+  + Storage,
+  + Data usage,
+  + Battery consumption like native applications  
++ Developers are able to update the app icon and name after the app was installed, which wasn’t possible before.
++ The app receives its own target URL space for its domain, so when a user clicks on a link within the scope of the Progressive Web App, it will open the installed app instead of the Chrome browser.
 
-So you see packaged Progressive Web Apps are integrated pretty deeply to the Android system, and as a result users can’t distinguish between native and Progressive Web Apps anymore.
-Conclusion
+So you see packaged Progressive Web Apps are integrated pretty deeply to the Android system, and as a result users can't distinguish between native and Progressive Web Apps anymore.
 
-As shown briefly in this blog article Progressive Web Apps are already very powerful, as they enable new features that weren’t possible for a long time like installability and deep integration into the android mobile operating system. And it doesn’t stop there, since Progressive Web Apps are capable of so much more e.g., working offline, syncing in the background, and push notifications.
+## Conclusion
 
-In the end, Progressive Web Apps are already powerful enough to replace hybrid and native applications for many use cases with almost no disadvantages. While it’s true that Progressive Web Apps can’t be discovered over native mobile stores such as the Apple Store or Google Play Store (yet), they can instead be found by anyone on the web through search engines. It doesn’t matter which device or operating system a user has, because search engines are accessible for everyone on the web.
+As shown briefly in this blog article Progressive Web Apps are already very powerful as they enable new features that weren't possible for a long time like installability and deep integration into the android mobile operating system. And it doesn’t stop there, 
+since Progressive Web Apps are capable of so much more e.g.
++ working offline
++ syncing in the background
++ push notifications
+
+
+Progressive Web Apps are already powerful enough to replace hybrid and native applications for many use cases with almost no disadvantages.
+
+While it’s true that Progressive Web Apps can't be discovered over native mobile stores such as the Apple Store or Google Play Store (yet)
+they can instead be found by anyone on the web through search engines.
 
 In the future Progressive Web Apps will gain even more features as the web platform is steadily evolving, and companies like Google show great interest in it.
 
